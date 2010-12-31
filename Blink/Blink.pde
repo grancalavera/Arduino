@@ -1,15 +1,13 @@
 #define LED 13
 
-int delayTime = 1000;
-
 void setup() {
   pinMode(LED, OUTPUT);
 }
 
 void loop() {
   digitalWrite(LED, HIGH);
-  delay(delayTime);
+  delay(10);
   
   digitalWrite(LED, LOW);
-  delay(delayTime);
+  delay(10);
 }
