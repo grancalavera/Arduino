@@ -1,9 +1,14 @@
+#include <Bounce.h>
+
 /*
   Foo bar man
 */
+#include <Bounce.h>
+
 const int BUTTON_PIN  = 2;
 const int LED_PIN     = 13;
 
+Bounce button         = Bounce(BUTTON_PIN, 100);
 int buttonState       = LOW;
 int onTime            = 5000;
 int onAt              = 0;
@@ -16,33 +21,33 @@ void setup() {
   Serial.begin(9600);
   pinMode(LED_PIN, OUTPUT);
   pinMode(BUTTON_PIN, INPUT);
+  button.update();
+  buttonState = button.read();
 }
 
 void loop(){
-  buttonState = digitalRead(BUTTON_PIN);
-
-  if (buttonState == HIGH && !isPushing) {
-    isPushing = true;
-    if (!isOn) turnOn();
-    else if (isOn) turnOff();
+  if (button.update()) {
+    buttonState = button.read();
+    if (buttonState == HIGH) {
+      if (!isOn) turnOn();
+      else turnOff();
+    }
   }
 
-  if (buttonState == LOW && isPushing) {
-    isPushing = false;
-    onAt = millis();
-  }
-
-  if (isOn && !isPushing && isTimeUp()) {
+  if (isOn && isTimeUp()) {
     turnOff();
   }
 }
 
 void turnOn() {
+  Serial.println("turnOn()");
+  onAt = millis();
   isOn = true;
   analogWrite(LED_PIN, 255);
 }
 
 void turnOff() {
+  Serial.println("turnOff()");
   isOn = false;
   analogWrite(LED_PIN, 0);
 }
@@ -50,4 +55,6 @@ void turnOff() {
 boolean isTimeUp() {
   return (millis() - onAt) >= onTime;
 }
+
+
 
