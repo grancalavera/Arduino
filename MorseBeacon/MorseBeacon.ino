@@ -13,7 +13,7 @@ boolean newWord;
 
 char * morsecode[] = { // pointers: http://www.gidforums.com/t-22114.html
   // Numbers
-  "-----", // 0 
+  "-----", // 0
   ".----", // 1
   "..---", // 2
   "...--", // 3
@@ -23,7 +23,7 @@ char * morsecode[] = { // pointers: http://www.gidforums.com/t-22114.html
   "--...", // 7
   "---..", // 8
   "----.", // 9
-  
+
   // Special characters (skipped)
   "",
   "",
@@ -32,7 +32,7 @@ char * morsecode[] = { // pointers: http://www.gidforums.com/t-22114.html
   "",
   "",
   "",
-  
+
   // Letters
   ".-",   // A
   "-...", // B
@@ -78,18 +78,18 @@ void dash()
 
 void charSpace()
 {
-  
+
   Serial.println("CHAR SPACE");
   digitalWrite(LED, LOW);
-  delay(CHR_SPC);  
+  delay(CHR_SPC);
 }
 
 void letterSpace()
 {
-  
+
   Serial.println("LETTER SPACE");
   digitalWrite(LED, LOW);
-  delay(LTR_SPC);  
+  delay(LTR_SPC);
 }
 
 void wordSpace()
@@ -99,7 +99,7 @@ void wordSpace()
   delay(WRD_SPC);
 }
 
-void flashSignal(char * morseChar)  // pointer to the value in an index 
+void flashSignal(char * morseChar)  // pointer to the value in an index
                                     // on the morsecode array
 {
   Serial.println(morseChar);
@@ -126,9 +126,9 @@ void readInput(char byte_)
     newWord = true;
   }
 
-  else 
+  else
   {
-    if 
+    if
     (
       (byte_ >= '0' && byte_ <= '9') ||
       (byte_ >= 'A' && byte_ <= 'Z')
@@ -144,14 +144,14 @@ void readInput(char byte_)
       {
         letterSpace();
       }
-      
+
       flashSignal(morsecode[byte_ - '0']);
     }
   }
 }
 
 void setup()
-{ 
+{
   Serial.begin(9600);
   pinMode(LED, OUTPUT);
 }

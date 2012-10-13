@@ -1,0 +1,1930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gree",
+				"greenBlink"
+			],
+			[
+				"se",
+				"servo"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"cir",
+				"circle"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"go",
+				"googleTweets	"
+			],
+			[
+				"app",
+				"apple	"
+			],
+			[
+				"goo",
+				"google	"
+			],
+			[
+				"appl",
+				"appleTweets	"
+			],
+			[
+				"Twee",
+				"TweetReader	"
+			],
+			[
+				"twe",
+				"tweetSet	"
+			],
+			[
+				"asce",
+				"ascendingByRetweet0	(TweetSet, Trending)"
+			],
+			[
+				"fin",
+				"findMin	"
+			],
+			[
+				"tw",
+				"tweetSet	"
+			],
+			[
+				"fi",
+				"findMin	"
+			],
+			[
+				"Emp",
+				"EmptyTrending	"
+			],
+			[
+				"as",
+				"ascendingByRetweet0	(Trending)"
+			],
+			[
+				"non",
+				"NonEmpty	"
+			],
+			[
+				"Tweet",
+				"Tweet	"
+			],
+			[
+				"Tw",
+				"TweetSet	"
+			],
+			[
+				"nu",
+				"Null	"
+			],
+			[
+				"Twe",
+				"TweetSet	"
+			],
+			[
+				"filter",
+				"filter0	(Function1[Tweet, Boolean], TweetSet)"
+			],
+			[
+				"s",
+				"sources	"
+			],
+			[
+				"to",
+				"toTweetSet	(List[Tweet])"
+			],
+			[
+				"prin",
+				"println	()"
+			],
+			[
+				"posi",
+				"positiveToNegative	"
+			],
+			[
+				"odd",
+				"oddToEven	"
+			],
+			[
+				"noop",
+				"noop	"
+			],
+			[
+				"noopf",
+				"noopfalse	"
+			],
+			[
+				"for",
+				"forall	(Function1, Function1[Int, Boolean])"
+			],
+			[
+				"f",
+				"fgt2	"
+			],
+			[
+				"diff",
+				"diffST	"
+			],
+			[
+				"int",
+				"intersect	(Function1, Function1)"
+			],
+			[
+				"s1",
+				"s1s2	"
+			],
+			[
+				"print",
+				"println	(Any)"
+			],
+			[
+				"set",
+				"Set	"
+			],
+			[
+				"scala",
+				"scalatest_2"
+			],
+			[
+				"Use",
+				"Users"
+			],
+			[
+				"Lis",
+				"Lists"
+			],
+			[
+				"getRow",
+				"getRows"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"getco",
+				"getColumn"
+			],
+			[
+				"getRo",
+				"getRow"
+			],
+			[
+				"getCo",
+				"getColumns"
+			],
+			[
+				"getr",
+				"getRows"
+			],
+			[
+				"ge",
+				"getAliveCount"
+			],
+			[
+				"kill",
+				"killAlien"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"alien",
+				"aliens"
+			],
+			[
+				"colum",
+				"columnMajorInstance"
+			],
+			[
+				"rowma",
+				"rowMajorInstance"
+			],
+			[
+				"rowm",
+				"rowMajorInstance"
+			],
+			[
+				"count",
+				"countFalsy"
+			],
+			[
+				"one",
+				"OneD"
+			],
+			[
+				"rowmajor",
+				"RowMajor"
+			],
+			[
+				"arra",
+				"ArrayUtils"
+			],
+			[
+				"th",
+				"throws"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"ror",
+				"RowMajor"
+			],
+			[
+				"RO",
+				"RowMajor"
+			],
+			[
+				"add",
+				"addAt"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"delete",
+				"deleteAt"
+			],
+			[
+				"on",
+				"oneDInstance"
+			],
+			[
+				"is",
+				"isFalsy"
+			],
+			[
+				"first",
+				"firstTruly"
+			],
+			[
+				"last",
+				"lastTrule"
+			],
+			[
+				"firs",
+				"firstTruly"
+			],
+			[
+				"get",
+				"getRandomIndex"
+			],
+			[
+				"getRan",
+				"getRandomElement"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"On",
+				"OneD"
+			],
+			[
+				"de",
+				"define	RequireJS module"
+			],
+			[
+				"Arra",
+				"ArrayUtils"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"requi",
+				"requirejs"
+			],
+			[
+				"getran",
+				"getRandomIndex"
+			],
+			[
+				"Cou",
+				"CountTruly"
+			],
+			[
+				"shoo",
+				"shooter"
+			],
+			[
+				"sho",
+				"shooter"
+			],
+			[
+				"getsh",
+				"getShooterFromColumn"
+			],
+			[
+				"column",
+				"columns"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pre",
+				"previousValue"
+			],
+			[
+				"the",
+				"theColumn"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"un",
+				"unshift"
+			],
+			[
+				"clo",
+				"cloud"
+			],
+			[
+				"cols",
+				"columns"
+			],
+			[
+				"fire",
+				"fireRow"
+			],
+			[
+				"disp",
+				"disposeAlien"
+			],
+			[
+				"dis",
+				"disposable"
+			],
+			[
+				"push",
+				"pushCommand"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"Her",
+				"HeroBullet"
+			],
+			[
+				"ini",
+				"initWithKeybard"
+			],
+			[
+				"start",
+				"startX"
+			],
+			[
+				"star",
+				"startX"
+			],
+			[
+				"sprite",
+				"sprite"
+			],
+			[
+				"spri",
+				"sprite"
+			],
+			[
+				"isn",
+				"isNull"
+			],
+			[
+				"up",
+				"updateEdges"
+			],
+			[
+				"spa",
+				"spawnDelay"
+			],
+			[
+				"off",
+				"offX"
+			],
+			[
+				"rend",
+				"renderMode"
+			],
+			[
+				"clou",
+				"cloudSize"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"destr",
+				"destroyDelay"
+			],
+			[
+				"render",
+				"renderMode"
+			],
+			[
+				"ste",
+				"stepDown"
+			],
+			[
+				"step",
+				"stepDown"
+			],
+			[
+				"Coll",
+				"Collision"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"spaw",
+				"spawn"
+			],
+			[
+				"wor",
+				"worldWidth"
+			],
+			[
+				"create",
+				"createBarrier"
+			],
+			[
+				"span",
+				"spawnAlien"
+			],
+			[
+				"cre",
+				"createAnimation"
+			],
+			[
+				"rest",
+				"restart"
+			],
+			[
+				"spt",
+				"spriteImg"
+			],
+			[
+				"COll",
+				"Collision"
+			],
+			[
+				"wo",
+				"worldWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Blink/Blink.ino",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "MorseBeacon/MorseBeacon.ino",
+			"settings":
+			{
+				"buffer_size": 2469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWSU/LEDDimming/LEDDimming.ino",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWSU/ServoSweep/ServoSweep.ino",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWSU/ServoPoten/ServoPoten.ino",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FadingLED/FadingLED.ino",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ButtonLED/ButtonLED.pde",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWSU/ServoLight/ServoLight.ino",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWSU/LightSensor/LightSensor.ino",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TWSU/TrafficLights/TrafficLights.ino",
+			"settings":
+			{
+				"buffer_size": 663,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"startup",
+				"Ensime: Startup"
+			],
+			[
+				"ensime",
+				"Ensime: Startup"
+			],
+			[
+				"ensi",
+				"Ensime: Startup"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ensimere",
+				"Ensime: Restart"
+			],
+			[
+				"restart",
+				"Ensime: Restart"
+			],
+			[
+				"debug",
+				"Ensime: Debug Start"
+			],
+			[
+				"star",
+				"Ensime: Startup"
+			],
+			[
+				"ens",
+				"Ensime: Startup"
+			],
+			[
+				"ms",
+				"Ensime: Session"
+			],
+			[
+				"en",
+				"Ensime: Startup"
+			],
+			[
+				"pa",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"jsli",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"jslint",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"jslin",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"preferences",
+				"Preferences: JSLint Settings – User"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"se sy h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"traini",
+				"Trailing Spaces: Toggle Trailing Spaces"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: dox-section-minor"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"JSLint: Run JSLint"
+			],
+			[
+				"run lin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"runl",
+				"JSLint: Run JSLint"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"run ",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jsl",
+				"JSLint: Run JSLint"
+			],
+			[
+				"js",
+				"JSLint: Show JSLint Result"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax d",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"temp",
+				"Create file from Template"
+			],
+			[
+				"filetem",
+				"Create file from Template"
+			],
+			[
+				"tem",
+				"Create file from Template"
+			],
+			[
+				"",
+				"Create file from Template"
+			],
+			[
+				"templa",
+				"Create file from Template"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"templ",
+				"Create file from Template"
+			],
+			[
+				"template",
+				"Create file from Template"
+			],
+			[
+				"set syntax: javas",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"TEmp",
+				"Create file from Template"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"syntax: h",
+				"Set Syntax: HTML"
+			],
+			[
+				"djang",
+				"Set Syntax: Python Django"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dja",
+				"Set Syntax: HTML (Django)"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 465.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/Users/grancalavera/sandbox/arduino/TWSU/LEDDimming.ino",
+		"/Users/grancalavera/sandbox/arduino/MorseBeacon/MorseBeacon.ino",
+		"/Users/grancalavera/sandbox/xxiv/.git/COMMIT_EDITMSG",
+		"/Users/grancalavera/sandbox/xxiv/assets/js/box-template.html",
+		"/Users/grancalavera/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/grancalavera/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/grancalavera/sandbox/xxiv/assets/js/app.js",
+		"/Users/grancalavera/sandbox/xxiv/assets/css/main.css",
+		"/Users/grancalavera/sandbox/coursera-progfun/.git/COMMIT_EDITMSG",
+		"/Users/grancalavera/Desktop/ranked.txt",
+		"/Users/grancalavera/sandbox/coursera-progfun/objsets/src/test/scala/objsets/TweetSetSuite.scala",
+		"/Users/grancalavera/sandbox/coursera-progfun/objsets/src/main/scala/objsets/TweetSet.scala"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/grancalavera/sandbox/xxiv/assets",
+			"/Users/grancalavera/sandbox/grancalavera_env/grancalavera/static/www/less/",
+			"/Users/grancalavera/sandbox/grancalavera_env/grancalavera/static/www/less/bootstrap",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/js/components",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/js/components.e",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/js/components",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/less",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/js/components",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/js",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/less",
+			"/Users/grancalavera/sandbox/audi-tablet/client/www/less/bootstrap",
+			"/Users/grancalavera/sandbox/audi-trunk/jcr_root",
+			"/Users/grancalavera/sandbox/ria-training/static-dev/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"500",
+			"12",
+			"100",
+			"300",
+			"cache",
+			"indent",
+			"require()",
+			"inclTweet",
+			"addTS",
+			"^.*(ios|iOS|iphone|iPhone|ipad|iPad).*$",
+			"^.*ios|iOS|iphone|iPhone|ipad|iPad.*$",
+			"\", \"",
+			"true",
+			"^.*$\\n^true$",
+			"^true",
+			"^.*$\\n^true",
+			"keywors",
+			"test(",
+			"test",
+			"funsets",
+			"test",
+			"mapped",
+			"base",
+			"possitiveToNegative",
+			"itp",
+			"p:",
+			"rowMajor.",
+			"rm",
+			"colums",
+			"throw",
+			"//",
+			"lastTrule",
+			"proxiedFunctions",
+			": ",
+			"countB",
+			"countA",
+			"basiUtils",
+			"libraries",
+			"CountTruly",
+			"fireRow",
+			"what",
+			"count",
+			"getRandomIndex",
+			"sayColumn",
+			"sayRow",
+			"name",
+			"initWithKeybard",
+			"deadAliens",
+			"disposeDeadAliens",
+			"updateEdges",
+			"update",
+			"disposeAlien",
+			"destroy",
+			"pushCommand",
+			"ts",
+			"limbo",
+			"aliens",
+			"HeroBullet",
+			"getEdges",
+			"Bullet",
+			"hero",
+			"KeyboardControls",
+			"controls",
+			"2D",
+			"Controls",
+			"controls",
+			"renderMode",
+			"alienSprite",
+			"check",
+			"currR",
+			"currL",
+			"curr",
+			"currL",
+			"inRightEdge",
+			"inLeftEdge",
+			"offY",
+			"offX",
+			"wH",
+			"wW",
+			"tS",
+			"sprite",
+			"size",
+			"tileSize",
+			"restart",
+			"direction",
+			"aliens",
+			"attach:",
+			"attach",
+			"DOM",
+			"explode",
+			"settime",
+			"explode",
+			"onHit",
+			"sprite",
+			"();\n",
+			"i",
+			"solid",
+			"}\n                    if (d",
+			"}\n                    ",
+			".e: function",
+			".e =",
+			"leftControls",
+			"window",
+			"Node",
+			"updateCannonPosition",
+			"evt",
+			"consooe",
+			"2D",
+			"Spaceinvaders",
+			"window",
+			"with ",
+			"with",
+			"1s",
+			"body-class",
+			".cv header, .cv #cv {\n    max-width: 960px;\n}\n",
+			"radius:@",
+			"border-ra",
+			"auto",
+			"// ",
+			"<div>snap!</div>",
+			"span",
+			"snap!",
+			"#grid",
+			"serif",
+			"baseFontFamily",
+			".tab-focus",
+			"show-grid",
+			"gridSystem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"leon.coto@razorfish.com",
+			"",
+			"_user",
+			"nsp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Blink/Blink.ino",
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "MorseBeacon/MorseBeacon.ino",
+					"settings":
+					{
+						"buffer_size": 2469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TWSU/LEDDimming/LEDDimming.ino",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "TWSU/ServoSweep/ServoSweep.ino",
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "TWSU/ServoPoten/ServoPoten.ino",
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "FadingLED/FadingLED.ino",
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ButtonLED/ButtonLED.pde",
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "TWSU/ServoLight/ServoLight.ino",
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "TWSU/LightSensor/LightSensor.ino",
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "TWSU/TrafficLights/TrafficLights.ino",
+					"settings":
+					{
+						"buffer_size": 663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 128.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"traff",
+				"TWSU/TrafficLights/TrafficLights.ino"
+			],
+			[
+				"lig",
+				"TWSU/LightSensor/LightSensor.ino"
+			],
+			[
+				"serv",
+				"TWSU/ServoLight/ServoLight.ino"
+			],
+			[
+				"servowee",
+				"TWSU/ServoSweep/ServoSweep.ino"
+			],
+			[
+				"more",
+				"MorseBeacon/MorseBeacon.ino"
+			],
+			[
+				"blink.in",
+				"Blink/Blink.ino"
+			],
+			[
+				"tw",
+				"src/test/scala/objsets/TweetSetSuite.scala"
+			],
+			[
+				"tweetsetsui",
+				"src/test/scala/objsets/TweetSetSuite.scala"
+			],
+			[
+				"tweetdata",
+				"src/main/scala/objsets/TweetData.scala"
+			],
+			[
+				"data",
+				"target/streams/$global/update/$global/out"
+			],
+			[
+				"tweetrea",
+				"src/main/scala/objsets/TweetReader.scala"
+			],
+			[
+				"funset",
+				"src/test/scala/funsets/FunSetSuite.scala"
+			],
+			[
+				"fun",
+				"src/test/scala/funsets/FunSetSuite.scala"
+			],
+			[
+				"main",
+				"src/main/scala/funsets/Main.scala"
+			],
+			[
+				"tests/",
+				"src/test/scala/funsets/FunSetSuite.scala"
+			],
+			[
+				"array",
+				"tests/arrayutilstests.js"
+			],
+			[
+				"space",
+				"www/js/games/spaceinvaders.js"
+			],
+			[
+				"aliens",
+				"www/js/games/spaceinvaders/aliens.js"
+			],
+			[
+				"under",
+				"www/js/lib/underscore.js"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"qui",
+				"tests/qunit.js"
+			],
+			[
+				"suite",
+				"tests/suite.js"
+			],
+			[
+				"suite.",
+				"tests/suite.js"
+			],
+			[
+				"app.js",
+				"www/js/app.js"
+			],
+			[
+				"tests.js",
+				"tests/tests.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"qu",
+				"www/js/qunit.js"
+			],
+			[
+				"spac",
+				"www/js/games/spaceinvaders.js"
+			],
+			[
+				"main.js",
+				"www/js/app/main.js"
+			],
+			[
+				"craf",
+				"www/js/lib/crafty.js"
+			],
+			[
+				"aliens.js",
+				"www/js/games/spaceinvaders/aliens.js"
+			],
+			[
+				"crafty",
+				"www/js/lib/crafty.js"
+			],
+			[
+				"spaceinva",
+				"www/js/games/spaceinvaders.js"
+			],
+			[
+				"app/main.js",
+				"www/js/app/main.js"
+			],
+			[
+				"index",
+				"www/index.html"
+			],
+			[
+				"cra",
+				"www/js/lib/crafty.js"
+			],
+			[
+				"spacein",
+				"www/js/games/spaceinvaders.js"
+			],
+			[
+				"s",
+				"www/js/games/spaceinvaders.js"
+			],
+			[
+				"sp",
+				"www/js/games/spaceinvaders.js"
+			],
+			[
+				"alien",
+				"www/js/games/spaceinvaders/aliens.js"
+			],
+			[
+				"craft",
+				"www/js/lib/crafty.js"
+			],
+			[
+				"app",
+				"www/js/app.js"
+			],
+			[
+				"spa",
+				"www/js/games/spaceinvaders.0.1.js"
+			],
+			[
+				"chara",
+				"www/js/games/spaceinvaders/characters.js"
+			],
+			[
+				"main.",
+				"www/js/app/main.js"
+			],
+			[
+				"invader",
+				"www/js/games/spaceinvaders/invader.js"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"bana",
+				"www/js/games/bananabomber.js"
+			],
+			[
+				"pong",
+				"www/js/games/pong.js"
+			],
+			[
+				"app.",
+				"www/js/app.js"
+			],
+			[
+				"inde",
+				"www/index.html"
+			],
+			[
+				"main.less",
+				"www/less/main.less"
+			],
+			[
+				"less",
+				"www/js/lib/less.js"
+			],
+			[
+				"pon",
+				"www/js/games/pong.js"
+			],
+			[
+				"in",
+				"www/index.html"
+			],
+			[
+				"back",
+				"grancalavera/static/www/js/lib/backbone.js"
+			],
+			[
+				"base",
+				"grancalavera/templates/base.html"
+			],
+			[
+				"cocos",
+				"grancalavera/static/www/js/lib/cocos2d.js"
+			],
+			[
+				"space-",
+				"grancalavera/templates/space-invaders.html"
+			],
+			[
+				"variables",
+				"grancalavera/static/www/less/variables.less"
+			],
+			[
+				"variabl",
+				"grancalavera/static/www/less/variables.less"
+			],
+			[
+				"urls.",
+				"grancalavera/urls.py"
+			],
+			[
+				"fab",
+				"fabfile.py"
+			],
+			[
+				"require.js",
+				"grancalavera/static/www/js/lib/require.js"
+			],
+			[
+				"cv-app",
+				"grancalavera/static/www/js/cv-app.js"
+			],
+			[
+				"urls",
+				"grancalavera/urls.py"
+			],
+			[
+				"mixin",
+				"grancalavera/static/www/less/mixins.less"
+			],
+			[
+				"main.css",
+				"grancalavera/static/www/less/main.css"
+			],
+			[
+				"grid.less",
+				"grancalavera/static/www/less/grid.less"
+			],
+			[
+				"responsive-",
+				"grancalavera/static/www/less/responsive-1200px-min.less"
+			],
+			[
+				"base.h",
+				"grancalavera/templates/base.html"
+			],
+			[
+				"mixins",
+				"grancalavera/static/www/less/mixins.less"
+			],
+			[
+				"varia",
+				"grancalavera/static/www/less/variables.less"
+			],
+			[
+				"responsive-767",
+				"grancalavera/static/www/less/responsive-767px-max.less"
+			],
+			[
+				"responsive-u",
+				"grancalavera/static/www/less/responsive-utilities.less"
+			],
+			[
+				"respon",
+				"grancalavera/static/www/less/responsive.less"
+			],
+			[
+				"base.html",
+				"grancalavera/templates/base.html"
+			],
+			[
+				"main.c",
+				"grancalavera/static/www/less/main.css"
+			],
+			[
+				"bootstra",
+				"grancalavera/static/www/less/bootstrap.less"
+			],
+			[
+				"scaffo",
+				"grancalavera/static/www/less/bootstrap/scaffolding.less"
+			],
+			[
+				"reset.",
+				"grancalavera/static/www/less/bootstrap/reset.less"
+			],
+			[
+				"bootstrap/boot",
+				"grancalavera/static/www/less/bootstrap/bootstrap.less"
+			],
+			[
+				"bootstrap",
+				"grancalavera/static/www/less/bootstrap.less"
+			],
+			[
+				"respons",
+				"grancalavera/static/www/less/bootstrap/responsive.less"
+			],
+			[
+				"reset.less",
+				"grancalavera/static/www/less/reset.less"
+			],
+			[
+				"colours",
+				"grancalavera/static/www/less/colours.less"
+			],
+			[
+				"layout",
+				"grancalavera/static/www/less/layout.less"
+			],
+			[
+				"grid.",
+				"grancalavera/static/www/less/bootstrap/grid.less"
+			],
+			[
+				"scaff",
+				"grancalavera/static/www/less/bootstrap/scaffolding.less"
+			],
+			[
+				"responsive-a",
+				"grancalavera/static/www/less/bootstrap/responsive-navbar.less"
+			],
+			[
+				"responsive-1200px",
+				"grancalavera/static/www/less/bootstrap/responsive-1200px-min.less"
+			],
+			[
+				"responsive-768-",
+				"grancalavera/static/www/less/bootstrap/responsive-768px-979px.less"
+			],
+			[
+				"respo",
+				"grancalavera/static/www/less/bootstrap/responsive.less"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"settings.py",
+				"grancalavera/settings.py"
+			],
+			[
+				"feature",
+				"grancalavera/templates/includes/feature.html"
+			],
+			[
+				"colo",
+				"grancalavera/static/www/less/colours.less"
+			],
+			[
+				"license",
+				"grancalavera/templates/includes/license.html"
+			],
+			[
+				"quick",
+				"client/www/js/components/QuickActions.js"
+			],
+			[
+				"carlineview",
+				"client/www/js/components/CarlineView.js"
+			],
+			[
+				"appl",
+				"client/www/js/components/ApplicationController.js"
+			],
+			[
+				"menu",
+				"client/www/js/components/MenuProvider.js"
+			],
+			[
+				"dash",
+				"client/www/js/components/Dashboard.js"
+			],
+			[
+				"wid",
+				"client/www/js/components/WidgetBase.js"
+			],
+			[
+				"carlinev",
+				"client/www/js/components/CarlineView.js"
+			],
+			[
+				"mis",
+				"client/www/less/mixins.less"
+			],
+			[
+				"mi",
+				"client/www/less/mixins.less"
+			],
+			[
+				"carline-wid",
+				"templates/components/carline-widget-base.html"
+			],
+			[
+				"carline",
+				"templates/components/carline-base.html"
+			],
+			[
+				"boot.js",
+				"client/www/js/boot.js"
+			],
+			[
+				"boot",
+				"client/www/less/bootstrap.less"
+			],
+			[
+				"audi-m",
+				"client/www/less/audi-mixins.less"
+			],
+			[
+				"audi-var",
+				"client/www/less/audi-variables.less"
+			],
+			[
+				"car",
+				"templates/carline-base.html"
+			],
+			[
+				"audi-c",
+				"client/www/less/audi-carline.less"
+			],
+			[
+				"contro",
+				"client/www/js/components/ControlBar.js"
+			],
+			[
+				"audi-app",
+				"client/www/less/audi-application.less"
+			],
+			[
+				"ba",
+				"templates/base.html"
+			],
+			[
+				"control",
+				"client/www/js/components/ControlBar.js"
+			],
+			[
+				"preloader",
+				"client/www/js/components/Preloader.js"
+			],
+			[
+				"preloa",
+				"client/www/less/audi-preloader.less"
+			],
+			[
+				"audi-mi",
+				"client/www/less/audi-mixins.less"
+			],
+			[
+				"audi-layou",
+				"client/www/less/audi-layout.less"
+			],
+			[
+				"audi-qui",
+				"client/www/less/audi-quickactions.less"
+			],
+			[
+				"audi-lay",
+				"client/www/less/audi-layout.less"
+			],
+			[
+				"audi-",
+				"client/www/less/audi-application.less"
+			],
+			[
+				"dashb",
+				"client/www/js/components/Dashboard.js"
+			],
+			[
+				"appli",
+				"client/www/js/components/ApplicationController.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
