@@ -1,15 +1,12 @@
 /*
   Foo bar man
 */
-
 const int BUTTON_PIN  = 2;
 const int LED_PIN     = 13;
 
 int buttonState       = LOW;
 int onTime            = 5000;
 int onAt              = 0;
-int dimmSteps         = 1000;
-int dimmCount         = 0;
 
 boolean isPushing     = false;
 boolean isOn          = false;
@@ -35,15 +32,9 @@ void loop(){
     onAt = millis();
   }
 
-  // if (isTimeUp()) {
-  //   turnOff();
-  // }
-
-  // if (isDimming) {
-  //   dimm();
-  // }
-
-  // delay(1000);
+  if (isOn && !isPushing && isTimeUp()) {
+    turnOff();
+  }
 }
 
 void turnOn() {
@@ -56,20 +47,7 @@ void turnOff() {
   analogWrite(LED_PIN, 0);
 }
 
-// boolean isTimeUp() {
-//   int ellapsed;
-//   if (isOn && !isPushing) {
-//     ellapsed = (long)(millis() - onAt);
-//     Serial.println("ellapsed:");
-//     Serial.println(ellapsed);
-//     return ellapsed >= onTime;
-//   } else {
-//     return false;
-//   }
-// }
-
-// void dimm() {
-//   int dimmStep = map(dimmCount ++, 0, 255, 0, dimmSteps);
-//   analogWrite(LED_PIN, dimmStep);
-// }
+boolean isTimeUp() {
+  return (millis() - onAt) >= onTime;
+}
 
