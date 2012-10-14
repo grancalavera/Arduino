@@ -11,7 +11,7 @@ const int LED_PIN     = 10;
 
 Bounce button         = Bounce(BUTTON_PIN, 100);
 int buttonState       = LOW;
-int onTime            = 5000;
+int onTime            = 10000;
 int onAt              = 0;
 int dimmSteps         = 20000;
 int dimmStep          = 0;
@@ -29,19 +29,24 @@ void setup() {
 }
 
 void loop() {
+
   if (button.update()) {
     buttonState = button.read();
-    if (buttonState == HIGH) {
+    if (buttonState == HIGH && !isPushing) {
+      isPushing = true;
       if (!isOn) turnOn();
       else turnOff(true);
+    } else if (buttonState == LOW && isPushing) {
+      isPushing = false;
+      if (isOn) onAt = millis();
     }
   }
-  if (isOn && isTimeUp()) turnOff(false);
+
   if (isDimming) dimm();
+  else if (isOn && !isPushing && isTimeUp()) turnOff(false);
 }
 
 void turnOn() {
-  onAt = millis();
   isOn = true;
   isDimming = false;
   analogWrite(LED_PIN, 255);
